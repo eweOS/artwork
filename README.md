@@ -1,5 +1,12 @@
 # eweOS artworks
 
+## logos
+
+**ewe logo:**
+
+<img src="https://github.com/eweOS/artwork/raw/master/logo/svg/logo.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/logo/svg/build-logo.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/logo/svg/package-logo.svg" width="80"/>
+
+
 ## stickers
 
 ### powered-by
