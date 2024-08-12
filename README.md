@@ -36,20 +36,20 @@
 <details>
   <summary>News (1200x600)</summary>
 
-<img src="https://github.com/eweOS/artwork/raw/master/cards/news-1200x600.svg" width="1200"/>
+<img src="https://github.com/eweOS/artwork/raw/master/cards/news-1200x600.png" width="1200"/>
 
 </details>
 
 <details>
   <summary>Event (1200x600)</summary>
 
-<img src="https://github.com/eweOS/artwork/raw/master/cards/event-1200x600.svg" width="1200"/>
+<img src="https://github.com/eweOS/artwork/raw/master/cards/event-1200x600.png" width="1200"/>
 
 </details>
 
 <details>
   <summary>Incident (1200x600)</summary>
 
-<img src="https://github.com/eweOS/artwork/raw/master/cards/incident-1200x600.svg" width="1200"/>
+<img src="https://github.com/eweOS/artwork/raw/master/cards/incident-1200x600.png" width="1200"/>
 
 </details>
