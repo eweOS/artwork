@@ -18,3 +18,7 @@
 **musl:**
 
 <img src="https://github.com/eweOS/artwork/raw/master/stickers/powered-by/musl/svg/poweredby_musl_clip.svg" width="150"/>
+
+### bot-reactions
+
+<img src="https://github.com/eweOS/artwork/raw/master/stickers/bot-reactions/svg/success.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/stickers/bot-reactions/svg/failed.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/stickers/bot-reactions/svg/denied.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/stickers/bot-reactions/svg/invalid.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/stickers/bot-reactions/svg/notfound.svg" width="80"/>
