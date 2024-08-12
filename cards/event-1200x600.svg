@@ -60,7 +60,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:zoom="0.97249999"
-     inkscape:cx="608.22623"
+     inkscape:cx="609.2545"
      inkscape:cy="244.73008"
      inkscape:window-width="2194"
      inkscape:window-height="1158"
@@ -99,9 +99,9 @@
      inkscape:label="eweos"><tspan
        x="484.11328"
        y="238.63867"
-       id="tspan2">ewe<tspan
+       id="tspan9">ewe<tspan
    style="font-weight:300;-inkscape-font-specification:'Roboto Light'"
-   id="tspan1">OS | Event
+   id="tspan8">OS | Event
 </tspan></tspan></text><text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.66667px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1"
@@ -122,9 +122,9 @@
        inkscape:label="date"><tspan
          x="436.44336"
          y="470.50062"
-         id="tspan4"><tspan
+         id="tspan11"><tspan
            style="font-weight:300;-inkscape-font-specification:'Roboto Light';fill:#000000"
-           id="tspan3">Huanglong Hotel, Hangzhou</tspan></tspan></text><path
+           id="tspan10">Huanglong Hotel, Hangzhou</tspan></tspan></text><path
        d="m 47.922016,43.82182 a 1.421875,1.421875 0 1 0 -2.84375,0 1.421875,1.421875 0 1 0 2.84375,0 z m -3.171875,0 a 1.75,1.75 0 1 1 3.5,0 1.75,1.75 0 1 1 -3.5,0 z m 2.096583,0.472363 -0.986426,0.379396 c -0.132622,0.05127 -0.263184,-0.0793 -0.211914,-0.211916 l 0.379394,-0.986424 c 0.02255,-0.0581 0.06768,-0.103222 0.125776,-0.125776 l 0.986426,-0.379395 c 0.132622,-0.05127 0.263183,0.0793 0.211914,0.211914 L 46.9725,44.168408 c -0.02188,0.0581 -0.06768,0.103222 -0.125776,0.125775 z M 46.71889,43.82182 a 0.21875,0.21875 0 1 0 -0.4375,0 0.21875,0.21875 0 1 0 0.4375,0 z"
        id="path1-6"
        style="stroke-width:0.00683593"
@@ -143,9 +143,9 @@
        inkscape:label="date"><tspan
          x="436.44336"
          y="470.50062"
-         id="tspan7"><tspan
+         id="tspan13"><tspan
            style="font-weight:300;-inkscape-font-specification:'Roboto Light';fill:#000000"
-           id="tspan5">August 21,22,23 2024,  09:00 - 18:00</tspan></tspan></text></g><g
+           id="tspan12">August 21-23 2024,  09:00 - 18:00</tspan></tspan></text></g><g
      id="g3"
      transform="matrix(0.78321678,0,0,0.78321678,9.722365,12.893721)"><path
        class="path"
