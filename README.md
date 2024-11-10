@@ -43,6 +43,8 @@
 
 <img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/ciallo-star.svg" width="200" />
 
+<img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/imggpu-1.svg" width="300" />
+
 ## Cards
 
 <details>
