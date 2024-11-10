@@ -41,9 +41,13 @@
 
 <img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/no-systemd.svg" width="300"/>
 
-<img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/ciallo-star.svg" width="200" />
+### Vendors
 
-<img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/imggpu-1.svg" width="300" />
+<img src="https://github.com/eweOS/artwork/raw/master/stickers/vendor/ciallo-star.svg" width="200" />
+
+<img src="https://github.com/eweOS/artwork/raw/master/stickers/vendor/imggpu-1.svg" width="300" />
+
+<img src="https://github.com/eweOS/artwork/raw/master/stickers/vendor/pipewire.svg" width="150" />
 
 ## Cards
 
