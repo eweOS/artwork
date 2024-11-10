@@ -39,6 +39,8 @@
 
 <img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/fire.svg" width="150"/>
 
+<img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/no-systemd.svg" width="300"/>
+
 ## Cards
 
 <details>
