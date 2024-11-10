@@ -41,6 +41,8 @@
 
 <img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/no-systemd.svg" width="300"/>
 
+<img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/ciallo-star.svg" width="200" />
+
 ## Cards
 
 <details>
