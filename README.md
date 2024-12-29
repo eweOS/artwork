@@ -56,6 +56,10 @@
 
 <img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/alternative-pkg.svg" width="200"/>
 
+<img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/chuang.svg" width="300"/>
+
+<img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/warning-opt.svg" width="300"/>
+
 ### Vendors
 
 <img src="https://github.com/eweOS/artwork/raw/master/stickers/vendor/ciallo-star.svg" width="200" />
