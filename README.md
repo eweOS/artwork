@@ -4,8 +4,19 @@
 
 **ewe logo:**
 
-<img src="https://github.com/eweOS/artwork/raw/master/logo/svg/logo.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/logo/svg/build-logo.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/logo/svg/package-logo.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/logo/svg/news-logo.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/logo/svg/alert-logo.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/logo/svg/bot-logo.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/logo/svg/gear-logo.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/logo/svg/calendar-logo.svg" width="80"/>
+<img src="https://github.com/eweOS/artwork/raw/master/logo/svg/logo.svg" width="80"/>
 
+**ewe logo (variants):**
+
+<img src="https://github.com/eweOS/artwork/raw/master/logo/svg/build-logo.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/logo/svg/package-logo.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/logo/svg/news-logo.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/logo/svg/alert-logo.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/logo/svg/bot-logo.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/logo/svg/gear-logo.svg" width="80"/> <img src="https://github.com/eweOS/artwork/raw/master/logo/svg/calendar-logo.svg" width="80"/>
+
+**ewe logo (with text):**
+
+<img src="https://github.com/eweOS/artwork/raw/master/logo/svg/logo-text.svg" width="200"/>
+
+**ewe logo (with text, dark):**
+
+<img src="https://github.com/eweOS/artwork/raw/master/logo/svg/logo-text-dark.svg" width="200"/>
 
 ## stickers
 
@@ -42,6 +53,8 @@
 <img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/no-systemd.svg" width="300"/>
 
 <img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/code-apple.svg" width="300"/>
+
+<img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/alternative-pkg.svg" width="200"/>
 
 ### Vendors
 
@@ -80,4 +93,4 @@
 
 ### DVD
 
-<img src="https://github.com/eweOS/artwork/raw/master/disk/dvd.svg" width="450" />"
+<img src="https://github.com/eweOS/artwork/raw/master/disk/dvd.svg" width="450" />
