@@ -60,6 +60,8 @@
 
 <img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/warning-opt.svg" width="300"/>
 
+<img src="https://github.com/eweOS/artwork/raw/master/stickers/meme/free-soft.svg" width="250"/>
+
 ### Vendors
 
 <img src="https://github.com/eweOS/artwork/raw/master/stickers/vendor/ciallo-star.svg" width="200" />
