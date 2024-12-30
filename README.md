@@ -100,3 +100,8 @@
 ### DVD
 
 <img src="https://github.com/eweOS/artwork/raw/master/disk/dvd.svg" width="450" />
+
+## StickerSets
+
+- [24.08 Alpha](https://github.com/eweOS/artwork/raw/master/stickersets/24.08-alpha.pdf)
+- [24.11 Beta](https://github.com/eweOS/artwork/raw/master/stickersets/24.11-beta.pdf)
